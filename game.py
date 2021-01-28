@@ -1,3 +1,10 @@
+''' @author Garrett Starkey
+    @version 1.0
+
+	 Python program utilizing pygame to simulate a game of space invaders.
+'''
+
+
 import pygame
 
 pygame.init()
